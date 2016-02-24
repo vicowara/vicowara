@@ -1,0 +1,4 @@
+#+TITLE: vicowara.net
+
+ - [[https://twitter.com/vicowara/][Twitter]]
+ - [[http://sugawarayusuke.hatenablog.com][ブログ]]
