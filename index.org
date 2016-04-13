@@ -1,6 +1,19 @@
 #+TITLE: vicowara.net
+#+OPTIONS: ^:{}
 
+* リンク
  - [[https://twitter.com/vicowara/][Twitter]]
- - [[http://sugawarayusuke.hatenablog.com][繝悶Ο繧ｰ]]
+ - [[http://sugawarayusuke.hatenablog.com][ブログ]]
  - [[https://github.com/vicowara][Github]]
  - [[https://gist.github.com/vicowara][Gist]]
+
+* 対応コマンド
+|-----------+-------------------------------------------------+------------|
+| command   | alias                                           | args       |
+|-----------+-------------------------------------------------+------------|
+| speedtest | -                                               | -          |
+| rssi      | -                                               | -          |
+| 応用      | 応用情報,ouyou                                  | -          |
+| 名前変更  | name_change,change_name,update_name,name_update | 新しい名前 |
+|-----------+-------------------------------------------------+------------|
+
