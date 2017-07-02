@@ -1,17 +1,14 @@
-Who am I
-========
+# Who am I
 Yusuke Sugawara (a.k.a. vicowara), Graduate Student in Hiroshima.
 
-Link
-======
+# Link
 
 -   [Twitter](https://twitter.com/vicowara/)
 -   [Blog](http://sugawarayusuke.hatenablog.com)
 -   [Github](https://github.com/vicowara)
 -   [Gist](https://gist.github.com/vicowara)
 
-Reply me!
-============
+# Reply me!
 
 | command   | alias                                               | args       |
 |-----------|-----------------------------------------------------|------------|
