@@ -1,6 +1,11 @@
 # Who am I
 Yusuke Sugawara (a.k.a. vicowara), Graduate Student in Hiroshima.
 
+## I'm interested in...
+- Gentoo Linux
+- Emacs
+- Linux Kernel
+
 # Link
 
 -   [Twitter](https://twitter.com/vicowara/)
